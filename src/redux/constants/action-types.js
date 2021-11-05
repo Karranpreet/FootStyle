@@ -7,4 +7,5 @@ export const ActionTypes = {
     REMOVE_QTY : "REMOVE_QTY",
     ADJUST_QTY : "ADJUST_QTY",
     EMPTY_CART : "EMPTY_CART"
+    
 }
